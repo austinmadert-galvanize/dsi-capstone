@@ -12,6 +12,12 @@
 
 1) High level description of the project: Working out is a healthy practice. I would like to build a workout plan recommender that will generate workout recommendations that fit into your schedule and help you keep to your goals.
 2) Question: What workout can I do right now that will optimize my performance and fit into my schedule?
-3) Presentation: slides
+3) Presentation: slides and a classification demo maybe
 4) Data sources: Working to identify possible datasets
+5) next steps: Acquire datasets
+
+1) High level description of the project: I want to predict the most efficient place for city governments to eminent domain if they want to build effective housing projects for homeless/poor. I would be measuring efficiency based on housing value trends (because eminent domain costs are based on a percentage of value). 
+2) Question: Where are the most monetarily efficient areas to eminent domain?
+3) Presentation: Slides
+4) Data sources: huduser.gov (Office of Policy Development and Research) and Zillow
 5) next steps: Acquire datasets
