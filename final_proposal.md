@@ -4,10 +4,18 @@
 
 The purpose of this project is to identify properties within and around the city of Austin that would represent the best investments for low income housing initiatives. It would seek to identify properties that would minimize the potential cost to the city, place individuals near important amenities (such as public transportation), and maintain dispersion of properties through different areas of the city and surrounding areas.
 
+Specifically, the project would seek to answer the questions: 
+    - Given a specific budget, what are the top property options available in Austin?
+    - Given a specific number of tenants, what are the top property options available in Austin?
+    - Given a specific budget and a specific number of potential tenants, what are the top property options available in Austin?
+
+
 ## How has this problem been approached before?
 
 Since studies in public housing have shown that large centralized complexes known as housing projects have led to increased crime, drug use,
 lower performance in schools, a more decentralized model has become common in cities. Modern public housing programs include properties spread across cities and surrounding areas to better assimilate the lower income tenants. 
+
+This project will attempt to approach the problem using clustering techniques to create target groups for acquisition.
 
 
 ## What is new about this approach?
@@ -22,14 +30,17 @@ The potential impact would be to allow for more efficient use of local governmen
 
 ## How will this be presented?
 
-I plan to create a slide presentation. The project will produce several graphs and it doesn't necessarily make sense to turn this into a tool or a web application. That said, my stretch goal is to perhaps leverage geospatial data from Open City Model to create rich visuals.
+I plan to create a slide presentation. 
 
+A stretch goal is to perhaps leverage geospatial data from Open City Model to create rich visuals. 
+
+An additional stretch goal would be to create a web application that would allow a user to interactively change their target budget and number of tenants to readjust the output top properties.
 
 ## Data Sources
 
 I will be leveraging multiple sources of data for this project. I will use community data from the US census Bureau PUMS (Public Use Microdata Sample) datasets. The 2008-2010 PUMS represents in the ballpark of 10 GB of data. 
 
-I will use Zillow data and sources from local government to collect housing prices to use to estimate strong properties.
+I will use Zillow data and sources from local government to collect housing prices to use to identify properties.
 
 As a stretch goal, I will leverage the Open City Model project's 3D geospatial datasets to create rich visuals.
 
