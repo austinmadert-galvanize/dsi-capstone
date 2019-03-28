@@ -15,12 +15,12 @@ Specifically, the project would seek to answer the questions:
 Since studies in public housing have shown that large centralized complexes known as housing projects have led to increased crime, drug use,
 lower performance in schools, a more decentralized model has become common in cities. Modern public housing programs include properties spread across cities and surrounding areas to better assimilate the lower income tenants. 
 
-This project will attempt to approach the problem using clustering techniques to create target groups for acquisition.
-
 
 ## What is new about this approach?
 
 The approach this project takes is to earmark certain properties for purchase or if need-be immenent domain. Austin is a rapidly growing city and housing prices are likely to continue rising rapidly which creates a burden on lower income households that depend on city employment. Having high value properties earmarked before development, or before they come on the market is of value because it steamlines the process and potentially saves the city money be correctly timing acquisitions and partnerships with developers. 
+
+This project will attempt to approach the problem using clustering techniques to create target groups for acquisition.
 
 
 ## So what?
